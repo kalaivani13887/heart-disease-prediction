@@ -1,15 +1,15 @@
-# Heart Disease Prediction
+**Heart Disease Prediction**
 
-## Project Overview
+**Project Overview**
 This project predicts whether a person is likely to have heart disease using Machine Learning algorithms.
 
-## Features
+** Features**
 - Heart Disease Prediction
 - User-Friendly Interface
 - Fast and Accurate Results
 - Data Visualization
 
-## Technologies Used
+** Technologies Used**
 - Python
 - Flask
 - HTML
@@ -19,7 +19,7 @@ This project predicts whether a person is likely to have heart disease using Mac
 - Pandas
 - NumPy
 
-## Dataset
+** Dataset**
 The dataset contains patient health information such as:
 - Age
 - Gender
@@ -28,16 +28,15 @@ The dataset contains patient health information such as:
 - Blood Sugar
 - Heart Rate
 
-## Machine Learning Algorithms
+** Machine Learning Algorithms**
 - Logistic Regression
 - Random Forest
 - Decision Tree
 - KNN
 
-## Output
+**Output**
 The system predicts:
 - Heart Disease Present
 - No Heart Disease
-
-## Author
+**Author**
 Kalaivani Ravi
